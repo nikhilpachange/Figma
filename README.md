@@ -38,6 +38,14 @@ A modern and eco-friendly e-bike concept design that combines technology and sus
   Another unique and innovative design project.
 
 ---
+## Practice-Based Projects
+
+These are designs I created to enhance my skills and experiment with new ideas. 
+1) Jewellery Website 
+A practice-based project exploring the design of an elegant and user-friendly jewellery full-website.
+
+2) Furniture Shop Website Design
+A practice-based design concept for an online furniture store, focusing on product showcase,full site and e-commerce experience.
 
 ## About This Repository
 
