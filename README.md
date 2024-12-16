@@ -19,16 +19,14 @@ A vibrant and engaging landing page design for an educational platform, highligh
 
 <img src="images/Modern_Educational_Website.png" alt="Modern Educational Website" width="800">
 
----
-### 3. Gaming Console UI Design
-A futuristic and immersive user interface concept for a gaming console, focused on a modern user experience.                 ![Gaming Console Design](images/Gaming Console.png)                                                                                                                                                                                                      
+---                                                                               
 ### 4. E-Bike Wand
 A modern and eco-friendly e-bike concept design that combines technology and sustainability.                                 ![E-Bike Design](images/Frame.png)
 
 ## Other Projects
 
-Here are some of the additional projects in this repository:
-
+ -**Gaming Console UI Design**
+    A futuristic and immersive user interface concept for a gaming console, focused on a modern user experience.
 
 - **Nike Air Shoes Landing Page**  
   A minimalistic and trendy design showcasing Nike Air shoes.
