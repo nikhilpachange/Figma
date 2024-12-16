@@ -8,7 +8,8 @@ Here, I showcase a collection of creative designs, including modern website layo
 ### 1. Jewellery Website Design
 A sleek and elegant design for a jewellery website, focusing on modern aesthetics and user-friendly navigation.
 
-![Jewellery Website Design](images/jewellerywebsite.png)
+<img src="images/jewellerywebsite.png" alt="Jewellery Website Design" width="800">
+
 
 ---
 
