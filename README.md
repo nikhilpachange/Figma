@@ -10,8 +10,6 @@ Here, I showcase a variety of creative designs I have built using Figma, ranging
 ### 1. Jewellery Website Design
 A sleek and elegant design for a jewellery website, focusing on modern aesthetics and user-friendly navigation.
 
-
-
 ---
 
 ### 2. Modern Educational Website Landing Page
