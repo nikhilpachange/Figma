@@ -48,7 +48,6 @@ A practice-based design concept for an online furniture store, focusing on produ
 ## About This Repository
 
 This repository serves as a portfolio of my Figma design skills. Feel free to explore the projects and provide feedback!
-
 ---
 
 ## How to View These Designs
